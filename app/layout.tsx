@@ -6,7 +6,7 @@ import { Toaster } from "react-hot-toast";
 
 export const metadata = {
   title: 'Sha_kart | e_com',
-  description: 'A simple e-commerce app built with Next.js App Router',
+
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
